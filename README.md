@@ -1,70 +1,134 @@
-🐍 Python with Ayu
-📌 Overview
+<!-- HEADER -->
 
-This repository contains Python experiments, test programs, and coding practice created while learning Python programming.
-The programs were written as part of teacher-given tests and personal practice to improve programming skills and logical thinking.
+<h1 align="center">🐍 Python Practice Repository</h1>
+<h3 align="center">Experiments • Tests • Coding Practice</h3>
 
-📂 Repository Contents
-File	Description
-chapter1.ipynb	Python basics and introductory programs
-test.ipynb	Programs written during class tests or experiments
-practise.ipynb	Additional Python practice problems
-🧠 Topics Covered
+<p align="center">
+A collection of Python experiments and practice programs created while learning Python programming.
+</p>
 
-The programs in this repository include practice on:
+---
 
-Python basics
+## 📖 About This Repository
 
-Input and output
+This repository contains **Python programs written during experiments, class tests, and personal coding practice**.
 
-Conditional statements (if, else, elif)
+The goal of this repository is to improve:
 
-Loops (for, while)
+* Python programming skills
+* Logical thinking
+* Problem solving ability
 
-Functions
+Programs are written using **Python and Jupyter Notebook**.
 
-Lists and basic data structures
+---
 
-Logical programming problems
+## 📂 Repository Structure
 
-⚙️ Technologies Used
+```
+python/
+│
+├── chapter1.ipynb     # Python basics and introduction programs
+├── test.ipynb         # Teacher test / experiment programs
+├── practise.ipynb     # Extra coding practice programs
+```
 
-Python 3
+---
 
-Jupyter Notebook
+## 🧠 Concepts Covered
 
-▶️ How to Run
+The programs in this repository practice the following Python concepts:
 
-Install Python 3
+### 🔹 Python Basics
 
-Install Jupyter Notebook
+* Variables
+* Data types
+* Input / Output
+* Basic syntax
 
+### 🔹 Control Flow
+
+* if statements
+* if–else
+* nested conditions
+
+### 🔹 Loops
+
+* for loop
+* while loop
+* loop logic problems
+
+### 🔹 Functions
+
+* defining functions
+* parameters
+* returning values
+
+### 🔹 Data Structures
+
+* lists
+* basic operations on lists
+
+### 🔹 Practice Problems
+
+* logical programming
+* beginner coding exercises
+
+---
+
+## ⚙️ Technologies Used
+
+| Tool             | Purpose                      |
+| ---------------- | ---------------------------- |
+| Python 3         | Programming language         |
+| Jupyter Notebook | Running and testing programs |
+
+---
+
+## ▶️ How to Run the Programs
+
+### 1️⃣ Install Python
+
+Install Python 3 on your system.
+
+### 2️⃣ Install Jupyter Notebook
+
+```
 pip install notebook
+```
 
-Clone the repository
+### 3️⃣ Clone the Repository
 
+```
 git clone https://github.com/Hachiman-itokawa/python.git
+```
 
-Open Jupyter Notebook
+### 4️⃣ Start Jupyter Notebook
 
+```
 jupyter notebook
+```
 
-Open any .ipynb file and run the cells.
+Then open any `.ipynb` file and run the cells.
 
-🎯 Purpose
+---
 
-The goal of this repository is to:
+## 🎯 Purpose of This Repository
 
-Practice Python programming
+✔ Practice Python programming
+✔ Complete teacher-assigned experiments
+✔ Improve coding skills
+✔ Maintain a collection of Python programs
 
-Complete teacher-assigned experiments
+---
 
-Improve coding and logical thinking
+## 👨‍💻 Author
 
-Maintain a collection of Python practice programs
+**Ayush Rawat**
+Student learning Python programming and problem solving.
 
-👨‍💻 Author
+---
 
-Ayush Rawat
-BCA Student
-Learning Python and problem solving.
+<p align="center">
+⭐ If you like this repository, consider giving it a star!
+</p>
