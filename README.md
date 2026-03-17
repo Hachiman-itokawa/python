@@ -1,2 +1,2 @@
-# Python with ayu
+# 🐍Python with ayu
 
